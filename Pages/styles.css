@@ -1,0 +1,22 @@
+.blog-header {
+    margin-bottom: 5px;
+    margin-top: 5px; 
+}
+
+.blog-header p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.blog-header p:first-child {
+    margin-top: 16px; 
+}
+
+.blog-header p:last-child {
+    margin-bottom: 16px; 
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
